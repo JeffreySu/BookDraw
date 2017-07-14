@@ -24,6 +24,11 @@ namespace BookDraw
             var groupCount = 500;//每组分组人数
 
             var memberGrooupList = new List<List<MemberInfo>>();
+
+            Console.WriteLine("当前为模拟测试数据");
+            Console.WriteLine("按任意键开始...");
+            Console.ReadKey();
+
             Console.WriteLine("开始导入众筹1元名单\r\n");
             Console.WriteLine("编号\t姓名\t手机\t\t金额");
             Console.WriteLine("------------------------------------");
