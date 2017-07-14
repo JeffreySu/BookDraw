@@ -30,7 +30,7 @@ namespace BookDraw
 
             using (var fw = new FileStream("..\\..\\OneYuanCrowdFunding.txt", FileMode.Open))
             {
-                using (var sr = new StreamReader(fw, Encoding.GetEncoding("GB2312")))
+                using (var sr = new StreamReader(fw, Encoding.UTF8/*Encoding.GetEncoding("GB2312")*/))
                 {
                     var data = sr.ReadToEnd();
 
