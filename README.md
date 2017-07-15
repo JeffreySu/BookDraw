@@ -10,8 +10,8 @@
 
 恭喜中奖者：339 牛* 157***9996
 
-2017年7月15日20:00 WeiXinMPSDK 项目 Fork 数：
-![2017年7月15日20:00 WeiXinMPSDK 项目 Fork 数](https://github.com/JeffreySu/BookDraw/blob/master/2017%E5%B9%B47%E6%9C%8814%E6%97%A5%2020%E7%82%B9%E6%95%B4%20Fork%E6%95%B0.jpg)
+2017年7月14日20:00 WeiXinMPSDK 项目 Fork 数：
+![2017年7月14日20:00 WeiXinMPSDK 项目 Fork 数](https://github.com/JeffreySu/BookDraw/blob/master/2017%E5%B9%B47%E6%9C%8814%E6%97%A5%2020%E7%82%B9%E6%95%B4%20Fork%E6%95%B0.jpg)
 
 
 
